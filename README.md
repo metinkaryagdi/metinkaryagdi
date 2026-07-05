@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 Building **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** — an event-driven, AI-powered project management platform (7 .NET 9 microservices, CQRS, Saga, Outbox/Inbox, local LLM).
+- 🔭 Building **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** — an event-driven, AI-powered project management platform (7 .NET 9 microservices, CQRS, event-driven, Outbox/Inbox, local LLM).
 - 🧠 Into distributed systems, message-driven architecture, and applied ML.
 - 🌱 Currently going deeper on Azure Container Apps deployment and reliable messaging patterns.
 - 🎯 Looking for junior roles in **backend / distributed systems / AI**.
@@ -48,7 +48,7 @@
 
 **Frontend** · React 19 · Flutter *(basic)*
 
-**Architecture & patterns** · Microservices · Event-Driven · CQRS · Saga Orchestration · Transactional Outbox/Inbox · Database-per-Service · Clean / Onion Architecture
+**Architecture & patterns** · Microservices · Event-Driven · CQRS · Transactional Outbox/Inbox (idempotency) · Database-per-Service · Clean Architecture
 
 ---
 
@@ -56,7 +56,7 @@
 
 | Project | What it is |
 | --- | --- |
-| **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** | AI-powered platform of **7 .NET 9 microservices** — event-driven (RabbitMQ), CQRS, Saga, Transactional Outbox/Inbox, database-per-service (PostgreSQL), JWT auth, and a local LLM (Ollama · Gemma 3 4B) that generates projects & tasks from natural language. |
+| **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** | AI-powered platform of **7 .NET 9 microservices** — event-driven (RabbitMQ), CQRS, Transactional Outbox/Inbox, database-per-service (PostgreSQL), JWT auth, and a local LLM (Ollama · Gemma 3 4B) that generates projects & tasks from natural language. |
 | **[SyntaxSherlock](https://github.com/metinkaryagdi/SyntaxSherlock)** | Code-analysis platform that checks Python for PEP 8 & static-analysis issues and explains errors **in Turkish**. React/TypeScript UI, .NET 9 microservice backend (YARP gateway), async processing via RabbitMQ, PostgreSQL storage. |
 | **[KahveciApi](https://github.com/metinkaryagdi/KahveciApi)** | RESTful backend (.NET Core + EF Core) with CRUD operations for coffee order & stock management. |
 
