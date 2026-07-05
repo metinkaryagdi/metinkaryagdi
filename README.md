@@ -6,11 +6,11 @@
 
 ---
 
-- 🔭 Building **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** — an event-driven, AI-powered project management platform (7 microservices, CQRS, Saga, Outbox/Inbox, local LLM).
+- 🔭 Building **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** — an event-driven, AI-powered project management platform (7 .NET 9 microservices, CQRS, Saga, Outbox/Inbox, local LLM).
 - 🧠 Into distributed systems, message-driven architecture, and applied ML.
 - 🌱 Currently going deeper on Azure Container Apps deployment and reliable messaging patterns.
 - 🎯 Looking for junior roles in **backend / distributed systems / AI**.
-- 📫 Reach me: [LinkedIn](#) · your.email@example.com
+- 📫 Reach me: [LinkedIn](#) · metinkaryagdi7@gmail.com
 
 ---
 
@@ -22,16 +22,33 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**Backend & Data**
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+**Backend**
+![.NET 9](https://img.shields.io/badge/.NET_9-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?logo=dotnet&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-BA2D2D?logoColor=white)
+![YARP](https://img.shields.io/badge/YARP_Gateway-512BD4?logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?logoColor=white)
+
+**Data & Messaging**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-**Frontend & Infra**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+**AI / ML**
 ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma_3_4B-4285F4?logo=google&logoColor=white)
+
+**Infra & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Seq](https://img.shields.io/badge/Seq-1E88E5?logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+**Frontend** · React 19 · Flutter *(basic)*
+
+**Architecture & patterns** · Microservices · Event-Driven · CQRS · Saga Orchestration · Transactional Outbox/Inbox · Database-per-Service · Clean / Onion Architecture
 
 ---
 
@@ -39,12 +56,10 @@
 
 | Project | What it is |
 | --- | --- |
-| **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** | AI-powered distributed project management platform — CQRS, Saga orchestration, Transactional Outbox/Inbox, database-per-service, local LLM (Ollama + Gemma 3 4B). |
-| **[SyntaxSherlock](https://github.com/GokhanGuclu/SyntaxSherlock-RuntimeError)** | *(add a one-line description)* |
+| **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** | AI-powered platform of **7 .NET 9 microservices** — event-driven (RabbitMQ), CQRS, Saga, Transactional Outbox/Inbox, database-per-service (PostgreSQL), JWT auth, and a local LLM (Ollama · Gemma 3 4B) that generates projects & tasks from natural language. |
+| **[SyntaxSherlock](https://github.com/metinkaryagdi/SyntaxSherlock)** | Code-analysis platform that checks Python for PEP 8 & static-analysis issues and explains errors **in Turkish**. React/TypeScript UI, .NET 9 microservice backend (YARP gateway), async processing via RabbitMQ, PostgreSQL storage. |
+| **[KahveciApi](https://github.com/metinkaryagdi/KahveciApi)** | RESTful backend (.NET Core + EF Core) with CRUD operations for coffee order & stock management. |
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=metinkaryagdi&show_icons=true&hide_border=true&count_private=true" alt="Metin's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinkaryagdi&layout=compact&hide_border=true" alt="Top languages" height="160" />
-</p>
+<p align="center"><em>Backend that stays consistent under failure — and speaks natural language.</em></p>
