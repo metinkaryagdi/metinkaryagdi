@@ -58,6 +58,7 @@
 | --- | --- |
 | **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** | AI-powered platform of **7 .NET 9 microservices** — event-driven (RabbitMQ), CQRS, Transactional Outbox/Inbox, database-per-service (PostgreSQL), JWT auth, and a local LLM (Ollama · Gemma 3 4B) that generates projects & tasks from natural language. |
 | **[SyntaxSherlock-RuntimeError](https://github.com/GokhanGuclu/SyntaxSherlock-RuntimeError)** | Predicts Python **runtime errors before execution** using a Random Forest model. FastAPI backend, React/TypeScript frontend — built with [@GokhanGuclu](https://github.com/GokhanGuclu), extending our earlier [SyntaxSherlock](https://github.com/metinkaryagdi/SyntaxSherlock) (a 5-service .NET 9 platform for PEP 8 checks with Turkish explanations). |
+| **[Masterly](https://github.com/metinkaryagdi/Masterly)** | Adaptive .NET training platform — a weighted daily-plan algorithm (spaced-repetition-style revision) targets each learner's weak topics, and a HackerRank-style isolated code judge compiles and runs submissions against xUnit test suites in a resource-capped container. Clean Architecture, PostgreSQL, JWT auth, 57 automated tests. |
 ---
 
 <p align="center"><em>Backend that stays consistent under failure — and speaks natural language.</em></p>
