@@ -6,11 +6,11 @@
 
 ---
 
-- 🔭 Building **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** — an event-driven, AI-powered project management platform (7 .NET 9 microservices, CQRS, event-driven, Outbox/Inbox, local LLM).
+- 🔭 Building **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** — an event-driven, AI-powered project management platform (7 .NET 9 microservices, CQRS, Outbox/Inbox, local LLM).
 - 🧠 Into distributed systems, message-driven architecture, and applied ML.
 - 🌱 Currently going deeper on Azure Container Apps deployment and reliable messaging patterns.
 - 🎯 Looking for junior roles in **backend / distributed systems / AI**.
-- 📫 Reach me: [LinkedIn]([(https://www.linkedin.com/in/metin-karya%C4%9Fd%C4%B1-b91107260/)]) · metinkaryagdi7@gmail.com
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/metin-karya%C4%9Fd%C4%B1-b91107260/) · [metinkaryagdi7@gmail.com](mailto:metinkaryagdi7@gmail.com)
 
 ---
 
@@ -58,7 +58,4 @@
 | --- | --- |
 | **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** | AI-powered platform of **7 .NET 9 microservices** — event-driven (RabbitMQ), CQRS, Transactional Outbox/Inbox, database-per-service (PostgreSQL), JWT auth, and a local LLM (Ollama · Gemma 3 4B) that generates projects & tasks from natural language. |
 | **[SyntaxSherlock-RuntimeError](https://github.com/GokhanGuclu/SyntaxSherlock-RuntimeError)** | Predicts Python **runtime errors before execution** using a Random Forest model. FastAPI backend, React/TypeScript frontend — built with [@GokhanGuclu](https://github.com/GokhanGuclu), extending our earlier [SyntaxSherlock](https://github.com/metinkaryagdi/SyntaxSherlock) (a 5-service .NET 9 platform for PEP 8 checks with Turkish explanations). |
-| **[Masterly](https://github.com/metinkaryagdi/Masterly)** | Adaptive .NET training platform — a weighted daily-plan algorithm (spaced-repetition-style revision) targets each learner's weak topics, and a HackerRank-style isolated code judge compiles and runs submissions against xUnit test suites in a resource-capped container. Clean Architecture, PostgreSQL, JWT auth, 57 automated tests. |
----
-
-<p align="center"><em>Backend that stays consistent under failure — and speaks natural language.</em></p>
+| **[Masterly](https://github.com/metinkaryagdi/Masterly)** | Adaptive .NET training platform — a weighted daily-plan algorithm (spaced-repetition-style revision) targets each learner's weak topics, and a HackerRank-style isolated code judge
