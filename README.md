@@ -10,7 +10,7 @@
 - 🧠 Into distributed systems, message-driven architecture, and applied ML.
 - 🌱 Currently going deeper on Azure Container Apps deployment and reliable messaging patterns.
 - 🎯 Looking for junior roles in **backend / distributed systems / AI**.
-- 📫 Reach me: [LinkedIn]([#](https://www.linkedin.com/in/metin-karya%C4%9Fd%C4%B1-b91107260/)) · metinkaryagdi7@gmail.com
+- 📫 Reach me: [LinkedIn]([(https://www.linkedin.com/in/metin-karya%C4%9Fd%C4%B1-b91107260/)]) · metinkaryagdi7@gmail.com
 
 ---
 
