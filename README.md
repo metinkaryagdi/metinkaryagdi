@@ -18,6 +18,7 @@
 
 **Languages**
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -26,6 +27,7 @@
 ![.NET 9](https://img.shields.io/badge/.NET_9-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?logo=dotnet&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?logo=grpc&logoColor=white)
 ![MediatR](https://img.shields.io/badge/MediatR-BA2D2D?logoColor=white)
 ![YARP](https://img.shields.io/badge/YARP_Gateway-512BD4?logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?logoColor=white)
@@ -42,13 +44,14 @@
 
 **Infra & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![Seq](https://img.shields.io/badge/Seq-1E88E5?logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 **Frontend** · React 19 · Flutter *(basic)*
 
-**Architecture & patterns** · Microservices · Event-Driven · CQRS · Transactional Outbox/Inbox (idempotency) · Database-per-Service · Clean Architecture
+**Architecture & patterns** · Microservices · Event-Driven · CQRS · Transactional Outbox/Inbox (idempotency) · Database-per-Service · Clean Architecture · Consensus (Raft) · Actor Model
 
 ---
 
@@ -57,5 +60,6 @@
 | Project | What it is |
 | --- | --- |
 | **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** | AI-powered platform of **7 .NET 9 microservices** — event-driven (RabbitMQ), CQRS, Transactional Outbox/Inbox, database-per-service (PostgreSQL), JWT auth, and a local LLM (Ollama · Gemma 3 4B) that generates projects & tasks from natural language. |
+| **[Shardlands](https://github.com/metinkaryagdi/shardlands)** | Distributed **2D mini-MMO engineering lab** focused on high-performance architecture. Built with **Go, gRPC, and Kubernetes**, featuring permanent shard-based hub worlds, on-demand arena instances, custom **Raft consensus**, actor models, event sourcing, and autonomous AI Game Masters. |
 | **[SyntaxSherlock-RuntimeError](https://github.com/GokhanGuclu/SyntaxSherlock-RuntimeError)** | Predicts Python **runtime errors before execution** using a Random Forest model. FastAPI backend, React/TypeScript frontend — built with [@GokhanGuclu](https://github.com/GokhanGuclu), extending our earlier [SyntaxSherlock](https://github.com/metinkaryagdi/SyntaxSherlock) (a 5-service .NET 9 platform for PEP 8 checks with Turkish explanations). |
-| **[Masterly](https://github.com/metinkaryagdi/Masterly)** | Adaptive .NET training platform — a weighted daily-plan algorithm (spaced-repetition-style revision) targets each learner's weak topics, and a HackerRank-style isolated code judge
+| **[Masterly](https://github.com/metinkaryagdi/Masterly)** | Adaptive .NET training platform — a weighted daily-plan algorithm (spaced-repetition-style revision) targets each learner's weak topics, and includes a HackerRank-style isolated code execution engine. |
