@@ -1,15 +1,16 @@
 <h1 align="center">Hi, I'm Metin 👋</h1>
 
 <p align="center">
-  Final-year Computer Engineering student focused on <strong>backend &amp; distributed systems</strong>, with hands-on <strong>AI/ML integration</strong>.
+  Computer Engineering student (graduating 2026) focused on <strong>backend development</strong> with .NET —
+  building event-driven microservices, and currently going deeper on distributed systems.
 </p>
 
 ---
 
 - 🔭 Building **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** — an event-driven, AI-powered project management platform (7 .NET 9 microservices, CQRS, Outbox/Inbox, local LLM).
-- 🧠 Into distributed systems, message-driven architecture, and applied ML.
-- 🌱 Currently going deeper on Azure Container Apps deployment and reliable messaging patterns.
-- 🎯 Looking for junior roles in **backend / distributed systems / AI**.
+- 🧱 Day-to-day stack: **.NET 9 / ASP.NET Core**, EF Core, PostgreSQL, RabbitMQ, Docker.
+- 🌱 Currently learning: distributed-systems fundamentals, reliable messaging patterns, and Azure Container Apps deployment.
+- 🎯 Looking for junior roles in **backend development**, especially .NET.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/metin-karya%C4%9Fd%C4%B1-b91107260/) · [metinkaryagdi7@gmail.com](mailto:metinkaryagdi7@gmail.com)
 
 ---
@@ -51,7 +52,9 @@
 
 **Frontend** · React 19 · Flutter *(basic)*
 
-**Architecture & patterns** · Microservices · Event-Driven · CQRS · Transactional Outbox/Inbox (idempotency) · Database-per-Service · Clean Architecture · Consensus (Raft) · Actor Model
+**Architecture & patterns** · Microservices · Event-Driven · CQRS · Transactional Outbox/Inbox (idempotency) · Database-per-Service · Clean Architecture
+
+**Currently exploring** *(implemented in [Shardlands](https://github.com/metinkaryagdi/shardlands), a learning project)* · Raft consensus · Actor model · CRDTs · Event sourcing · LSM-tree storage · Service mesh
 
 ---
 
@@ -60,6 +63,6 @@
 | Project | What it is |
 | --- | --- |
 | **[Flowgent](https://github.com/metinkaryagdi/Flowgent)** | AI-powered platform of **7 .NET 9 microservices** — event-driven (RabbitMQ), CQRS, Transactional Outbox/Inbox, database-per-service (PostgreSQL), JWT auth, and a local LLM (Ollama · Gemma 3 4B) that generates projects & tasks from natural language. |
-| **[Shardlands](https://github.com/metinkaryagdi/shardlands)** | Distributed **2D mini-MMO engineering lab** focused on high-performance architecture. Built with **Go, gRPC, and Kubernetes**, featuring permanent shard-based hub worlds, on-demand arena instances, custom **Raft consensus**, actor models, event sourcing, and autonomous AI Game Masters. |
+| **[Masterly](https://github.com/metinkaryagdi/Masterly)** | Adaptive .NET training platform — **Clean Architecture** ASP.NET Core 8 backend with a weighted daily-plan algorithm (spaced-repetition-style revision) that targets each learner's weak topics, plus a HackerRank-style isolated code execution engine. ~57 unit & integration tests. |
 | **[SyntaxSherlock-RuntimeError](https://github.com/GokhanGuclu/SyntaxSherlock-RuntimeError)** | Predicts Python **runtime errors before execution** using a Random Forest model. FastAPI backend, React/TypeScript frontend — built with [@GokhanGuclu](https://github.com/GokhanGuclu), extending our earlier [SyntaxSherlock](https://github.com/metinkaryagdi/SyntaxSherlock) (a 5-service .NET 9 platform for PEP 8 checks with Turkish explanations). |
-| **[Masterly](https://github.com/metinkaryagdi/Masterly)** | Adaptive .NET training platform — a weighted daily-plan algorithm (spaced-repetition-style revision) targets each learner's weak topics, and includes a HackerRank-style isolated code execution engine. |
+| **[Shardlands](https://github.com/metinkaryagdi/shardlands)** | **Learning project** for distributed-systems concepts, built as a 2D mini-MMO in **Go**: shard-based hub worlds, on-demand arena instances, a hand-written **Raft** implementation, actor model, event sourcing, and a custom **Kubernetes operator** — infrastructure written from scratch to understand it rather than to ship it. |
